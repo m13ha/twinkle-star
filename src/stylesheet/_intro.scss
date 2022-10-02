@@ -1,0 +1,42 @@
+@use 'variables';
+
+.intro {
+  font-family: variables.$primary-font;
+  font-weight: 600;
+  color: white;
+  line-height: 1.8rem;
+  display: flex;
+  width: 80%; // will change on small screens
+  margin: auto;
+  position: fixed;
+  top: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+
+  .text {
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    background-color: variables.$transparent-black;
+  }
+
+  svg {
+    width: 1.5rem;
+    height: auto;
+  }
+
+  button {
+    background-color: variables.$transparent-black;
+    color: white;
+    display: block;
+    border: none;
+    &:first-child {
+      border-top-left-radius: 1rem;
+      border-bottom-left-radius: 1rem;
+    }
+    &:last-child {
+      border-top-right-radius: 1rem;
+      border-bottom-right-radius: 1rem;
+    }
+  }
+}

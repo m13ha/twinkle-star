@@ -1,0 +1,34 @@
+{
+  "en": [
+    {
+      "type": "Cepheid Variables",
+      "variability": "intrinsic",
+      "examples": "Polaris, RS Puppis, Zeta Geminorum",
+      "description": "<p>These are stars that 'periodically' brighten and dim. They grow and shrink (pulsate), changing diameter and temperature which produce a <b>periodic and regular change in brightness.<b></p><p>The light curve of a cepheid star is well defined, with a stable amplitude (maximum brightness) and time period.</p><a href='#'>The accepted explanation of this pulsation involves temperature changes causing its expansion and contraction, Helium gas ionization affecting it's opacity and brightness.</a>"
+    },
+    {
+      "type": "Classical Nova (Cataclysmic Variables)",
+      "variability": "intrinsic",
+      "examples": "KT Eridani",
+      "description": "<p>In these stars there is a large increase in brightness followed by a decrease in the brightness. Unlike the Cepheids, these changes are irregular.</p><p>Cataclysmic Variables are actually binary stars - two stars orbiting around each other - made up of a primary star (white dwarf) and secondary star (normal sized). The close proximity and gravity cause the secondary star to lose matter to the primary (accretion).</p><p>These matter include Hydrogen and when the density and temperature of the accumulated Hydrogen layer is high enough in the primary star, Hydrogen fusion occurs, the star erupts, ejecting some of the matter and <b>produce immense brightness</b> (Xrays).</p><p>Bonus: After eruption some of the matter may be retained which cause an increase in the mass of the dwarf primary star. As the increasing mass approaches a certain limit, pressure builds up, internal temperature rises and on reaching the limit (Chandrasekhar limit),  Carbon fusion occurs and the star explodes producing great magnitude of light (a white dwarf supernova).</p>"
+    },
+    {
+      "type": "Dwarf Nova (Cataclysmic Variables)",
+      "variability": "intrinsic",
+      "examples": "U Geminorum, HT Cas",
+      "description": "<p>They have the same cataclysmic variable system (involving a secondary star losing matter to a primary one and producing light) but the mechanism preceeding eruption is different (it does not involve Hydrogen fusion).</p> <p>It's outburst is due to increased rate in which the secondary star loses matter to the primary (increased accretion rate).</p><p>The brightness of the outburst is much lower than the classical cataclysmic variation but the frequency of eruption is higher</p>"
+    },
+    {
+      "type": "Eclipsing binary",
+      "variability": "extrinsic",
+      "examples": "Algol",
+      "description": "<p>A binary star is a system of two stars that are gravitationally bound to and in orbit around each other. With the naked eyes, they may be seen as a single object with constant brightness but can be resolved as separate stars using a telescope.</p><p>When eclipsing stars move in their orbit, for some period of time, they lie at the same plane in the line of sight of the observer. That is, when observed, one of the star blocks the amount of light of the other star. This cause a temporary decrease in the brightness of the system until they move and the brightness is restored and constant.</p><p>Therefore these stars are variable not because the light of the individual components but the eclipse that occur as they move in their orbit.</p>"
+    },
+    {
+      "type": "Planetary transiting variable stars",
+      "variability": "extrinsic",
+      "examples": "HD 209458 and GSC 02652-01324",
+      "description": "<p>A star that has planets orbiting it may dim in brightness when any of such planets pass between this star and the earth/the observer. This planet blocks the light that comes from the star for a brief period of time thus the brightness of the star may vary periodically even though the star itself does not change in brightness</p>"
+    }
+  ]
+}

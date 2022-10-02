@@ -1,0 +1,6 @@
+For the stars::
+Kepler telescope - https://science.nasa.gov/get-involved/toolkits/spacecraft-icons
+Cepheids - https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html, https://en.wikipedia.org/wiki/Cepheid_variable
+Cataclysmic Variables - https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html, https://en.wikipedia.org/wiki/Cataclysmic_variable_star, https://en.wikipedia.org/wiki/Dwarf_nova
+Eclipsing binary - https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries
+Planetary transiting variable stars - https://en.wikipedia.org/wiki/Variable_star#Planetary_transits
