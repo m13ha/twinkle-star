@@ -31,7 +31,7 @@ const reducer = (state, action) => {
     };
   }
  if (action.type === OPEN_STAR_INFO) {
-   const points = [1000, 100, 50, 20, 10];
+   const points = [500, 100, 50, 1000, 10];
    const index = action.payload.index;
    const language = state.presentLanguage;
    const activeStarInfo = state.starText[language][index];
