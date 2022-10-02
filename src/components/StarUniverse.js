@@ -70,7 +70,7 @@ function App() {
 
   const generateShapes = () => {
     let starMap = [];
-    for (let i = 0; i < 500; i++) {
+    for (let i = 0; i < 350; i++) {
       let x = Math.random() * canvasRef.current?.clientWidth;
       let y = Math.random() * canvasRef.current?.clientHeight;
       let numPoints = Math.floor(Math.random() * (10 - 5) + 5);
@@ -182,7 +182,7 @@ function App() {
 
   const getRandomRefs = () => {
     let arr = [];
-    while (arr.length < 100) {
+    while (arr.length < 50) {
       let randomNumber = Math.floor(Math.random() * 100);
       if (!arr.includes(randomNumber)) {
         arr.push(randomNumber);
