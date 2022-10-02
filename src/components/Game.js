@@ -1,18 +1,18 @@
-import { useAppContext } from "../context/app-context";
-import StatsItem from "./StatsItem";
-import { nanoid } from "nanoid";
-import StarModal from "./StarModal";
+import { useAppContext } from '../context/app-context';
+import StatsItem from './StatsItem';
+import { nanoid } from 'nanoid';
+import StarModal from './StarModal';
 
 const Game = () => {
   const { gameItemsFound } = useAppContext();
   return (
-    <section className="game">
+    <section className='game'>
       <StarModal />
 
-      <section className="legend">
-        <header>Items discovered</header>
+      <section className='legend'>
+        <header>Points</header>
 
-        <section className="itemList">
+        <section className='itemList'>
           {gameItemsFound.map((item) => (
             <StatsItem
               key={nanoid()}
@@ -22,8 +22,6 @@ const Game = () => {
           ))}
         </section>
       </section>
-
-      <aside className="changeLanguage">English</aside>
     </section>
   );
 };

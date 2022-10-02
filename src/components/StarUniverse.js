@@ -1,9 +1,9 @@
-import "../stylesheet/StarUniverseIndex.css";
-import "../stylesheet/StarUniverseApp.css";
-import { Stage, Layer, Star } from "react-konva";
-import { useEffect, useRef, useState, createRef } from "react";
-import { useAppContext } from "../context/app-context";
-import { nanoid } from "nanoid";
+import '../stylesheet/StarUniverseIndex.css';
+import '../stylesheet/StarUniverseApp.css';
+import { Stage, Layer, Star } from 'react-konva';
+import { useEffect, useRef, useState, createRef } from 'react';
+import { useAppContext } from '../context/app-context';
+import { nanoid } from 'nanoid';
 
 function App() {
   const [starList, setStarList] = useState([]);
@@ -45,11 +45,11 @@ function App() {
 
   const randomType = () => {
     let types = [
-      "supernova",
-      "dwarf-nova",
-      "eclipsing-binary",
-      "cepheid",
-      "planet-transit",
+      'supernova',
+      'dwarf-nova',
+      'eclipsing-binary',
+      'cepheid',
+      'planet-transit',
     ];
     let points = [10, 20, 50, 100, 1000];
 
@@ -205,26 +205,26 @@ function App() {
 
   const isBlinking = (e) => {
     let shapeID = e.target.id();
-    console.log(shapeID)
+    console.log(shapeID);
     let activeStars = currentActiveRefs;
     if (activeStars.includes(Number(shapeID))) {
       let starData = starList[Number(shapeID)];
-      console.log(starData)
+      console.log(starData);
       switch (starData.type) {
-        case "planet-transit":
-           openStarInfoRandom(4)
+        case 'planet-transit':
+          openStarInfoRandom(4);
           break;
-        case "cepheid":
-          openStarInfoRandom(0);
-          break;
-        case "dwarf-nova":
+        case 'cepheid':
           openStarInfoRandom(2);
           break;
-        case "supernova":
-          openStarInfoRandom(1);
+        case 'dwarf-nova':
+          openStarInfoRandom(0);
           break;
-        case "eclipsing-binary":
+        case 'supernova':
           openStarInfoRandom(3);
+          break;
+        case 'eclipsing-binary':
+          openStarInfoRandom(1);
           break;
         default:
           break;
@@ -233,7 +233,7 @@ function App() {
   };
 
   return (
-    <div className="StarUniverse" ref={canvasRef}>
+    <div className='StarUniverse' ref={canvasRef}>
       <Stage
         width={canvasRef.current?.clientWidth}
         height={canvasRef.current?.clientHeight}
@@ -251,9 +251,9 @@ function App() {
                   numPoints={star.numPoints}
                   innerRadius={star.innerRadius}
                   outerRadius={star.outerRadius}
-                  fill="#fff"
+                  fill='#fff'
                   rotation={star.rotation}
-                  shadowColor="#fff"
+                  shadowColor='#fff'
                   shadowBlur={5}
                   scaleX={scale}
                   scaleY={scale}

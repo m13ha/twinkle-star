@@ -30,23 +30,23 @@ const reducer = (state, action) => {
       isIntroduction: false,
     };
   }
-  if (action.type === OPEN_STAR_INFO) {
-    const points = [1000, 100, 50, 20, 10];
-    const index = action.payload.index;
-    const language = state.presentLanguage;
-    const activeStarInfo = state.starText[language][index];
-    const gameItemsFound = state.gameItemsFound;
-    let formerCount = gameItemsFound[index].itemCount;
-    formerCount += points[index];
-    gameItemsFound[index].itemCount = formerCount;
-    return {
-      ...state,
-      typeIndex: index,
-      activeStarInfo,
-      isModalOpened: true,
-      gameItemsFound,
-    };
-  }
+ if (action.type === OPEN_STAR_INFO) {
+   const points = [1000, 100, 50, 20, 10];
+   const index = action.payload.index;
+   const language = state.presentLanguage;
+   const activeStarInfo = state.starText[language][index];
+   const gameItemsFound = state.gameItemsFound;
+   let formerCount = gameItemsFound[index].itemCount;
+   formerCount += points[index];
+   gameItemsFound[index].itemCount = formerCount;
+   return {
+     ...state,
+     typeIndex: index,
+     activeStarInfo,
+     isModalOpened: true,
+     gameItemsFound,
+   };
+ }
   if (action.type === CLOSE_MODAL) {
     return {
       ...state,

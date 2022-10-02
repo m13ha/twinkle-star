@@ -1,0 +1,322 @@
+{
+  "English": [
+    {
+      "type": "Dwarf Nova (Cataclysmic Variables)",
+      "variability": "intrinsic variable",
+      "description": "They have the same cataclysmic variable system (involving a secondary star losing matter to a primary) but the mechanism preceeding eruption is different (it does not involve Hydrogen fusion). It's outburst is due to increased rate of accretion. The brightness is much lower than the classical cataclysmic variation but the frequency is higher",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Eclipsing binary",
+      "variability": "extrinsic variable",
+      "description": "This is a system of two stars that are gravitationally bound to and in orbit around each other. As these stars move in their orbit, for some period of time, they lie at the same plane in the line of sight of the observer. This cause an eclipse resulting to a temporary decrease in the brightness of the system until they move and the brightness is restored and constant.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Cepheid Variables",
+      "variability": "intrinsic variable",
+      "description": "These are stars that 'periodically' brighten and dim. They grow and shrink (pulsate), changing diameter and temperature which produce a periodic and regular change in brightness.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Classical Nova (Cataclysmic Variables)",
+      "variability": "intrinsic variable",
+      "description": "In these stars there is a large irregular increase in brightness followed by a decrease. Cataclysmic Variables are actually binary stars - two stars orbiting around each other - made up of a primary star (white dwarf) and secondary star (normal sized). The secondary star lose matter to the primary (accretion). Hydrogen fusion occurs in the accumulated matter, the star erupts, ejecting some of the matter and produce immense brightness.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Planetary transiting variable stars",
+      "variability": "extrinsic variable",
+      "description": "A star that has planets orbiting it may dim in brightness when any of such planets pass between this star and the earth/the observer. This planet blocks the light that comes from the star for a brief period of time thus the brightness of the star may vary periodically even though the star itself does not change in brightness",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Arabic": [
+    {
+      "type": "قزم نوفا (متغيرات كارثية)",
+      "variability": "متغير جوهري",
+      "description": "لديهم نفس النظام المتغير الكارثي (الذي ينطوي على فقدان نجم ثانوي للمادة الأولية) لكن الآلية التي تسبق الانفجار البركاني مختلفة (لا تتضمن اندماج الهيدروجين). إنه فورة بسبب زيادة معدل التراكم. السطوع أقل بكثير من التباين الكارثي الكلاسيكي ولكن التردد أعلى",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "كسوف ثنائي",
+      "variability": "متغير خارجي",
+      "description": "هذا نظام من نجمين مرتبطين جاذبيًا في مدار حول بعضهما البعض. بينما تتحرك هذه النجوم في مدارها ، فإنها تقع لبعض الوقت على نفس المستوى في خط رؤية الراصد. يؤدي هذا إلى حدوث كسوف ينتج عنه انخفاض مؤقت في سطوع النظام حتى تتحرك ويتم استعادة السطوع وثابت.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "متغيرات سيفيد",
+      "variability": "متغير جوهري",
+      "description": "هذه هي النجوم التي تضيء وتخفت بشكل دوري. تنمو وتتقلص (نابضة) ، وتغير القطر ودرجة الحرارة مما ينتج عنه تغير دوري ومنتظم في السطوع.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "نوفا الكلاسيكية (المتغيرات الكارثية)",
+      "variability": "متغير جوهري",
+      "description": "يوجد في هذه النجوم زيادة كبيرة غير منتظمة في السطوع يتبعها انخفاض. المتغيرات الكارثية هي في الواقع نجوم ثنائية - نجمان يدوران حول بعضهما البعض - تتكون من نجم أساسي (قزم أبيض) ونجم ثانوي (حجم عادي). النجم الثانوي يفقد المادة إلى الأساسي (التراكم). يحدث اندماج الهيدروجين في المادة المتراكمة ، ينفجر النجم ، ويخرج بعضًا من المادة وينتج سطوعًا هائلاً.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "الكواكب العابرة للنجوم المتغيرة",
+      "variability": "متغير خارجي",
+      "description": "قد يخفت سطوع النجم الذي تدور حوله كواكب عندما يمر أي من هذه الكواكب بين هذا النجم والأرض / الراصد. يحجب هذا الكوكب الضوء الذي يأتي من النجم لفترة وجيزة من الزمن وبالتالي قد يختلف سطوع النجم بشكل دوري على الرغم من أن النجم نفسه لا يتغير في السطوع",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Dutch": [
+    {
+      "type": "Dwergnova (catastrofale variabelen)",
+      "variability": "intrinsieke variabele",
+      "description": "Ze hebben hetzelfde catastrofale variabele systeem (waarbij een secundaire ster materie verliest aan een primaire) maar het mechanisme dat aan de uitbarsting voorafgaat is anders (het gaat niet om waterstoffusie). De uitbarsting is te wijten aan een verhoogde accretiesnelheid. De helderheid is veel lager dan de klassieke catastrofale variatie, maar de frequentie is hoger",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Verduisterend binair",
+      "variability": "extrinsieke variabele",
+      "description": "Dit is een systeem van twee sterren die door de zwaartekracht aan elkaar zijn gebonden en in een baan om elkaar heen draaien. Terwijl deze sterren gedurende een bepaalde tijd in hun baan bewegen, bevinden ze zich in hetzelfde vlak in de gezichtslijn van de waarnemer. Dit veroorzaakt een zonsverduistering die resulteert in een tijdelijke afname van de helderheid van het systeem totdat ze bewegen en de helderheid wordt hersteld en constant is.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Cepheïde-variabelen",
+      "variability": "intrinsieke variabele",
+      "description": "Dit zijn sterren die 'periodiek' helderder en zwakker worden. Ze groeien en krimpen (pulseren), veranderen van diameter en temperatuur, waardoor een periodieke en regelmatige verandering in helderheid ontstaat.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Klassieke Nova (Cataclysmische Variabelen)",
+      "variability": "intrinsieke variabele",
+      "description": "In deze sterren is er een grote onregelmatige toename in helderheid gevolgd door een afname. Cataclysmic Variables zijn eigenlijk dubbelsterren - twee sterren die om elkaar heen draaien - bestaande uit een primaire ster (witte dwerg) en secundaire ster (normale grootte). De secundaire ster verliest materie aan de primaire (aanwas). Waterstoffusie vindt plaats in de opgehoopte materie, de ster barst uit, stoot een deel van de materie uit en produceert een immense helderheid.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Planetaire transiterende veranderlijke sterren",
+      "variability": "extrinsieke variabele",
+      "description": "Een ster met planeten die eromheen draaien, kan minder helder worden wanneer een van dergelijke planeten tussen deze ster en de aarde/de waarnemer passeert. Deze planeet blokkeert het licht dat van de ster komt voor een korte periode, dus de helderheid van de ster kan periodiek variëren, ook al verandert de helderheid van de ster zelf niet",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "French": [
+    {
+      "type": "Nova naine (variables cataclysmiques)",
+      "variability": "variable intrinsèque",
+      "description": "Ils ont le même système variable cataclysmique (impliquant une étoile secondaire perdant de la matière au profit d'une étoile primaire) mais le mécanisme précédant l'éruption est différent (il n'implique pas la fusion d'hydrogène). Son explosion est due à l'augmentation du taux d'accrétion. La luminosité est bien inférieure à la variation cataclysmique classique mais la fréquence est plus élevée",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Binaire à éclipses",
+      "variability": "variable extrinsèque",
+      "description": "Il s'agit d'un système de deux étoiles gravitationnellement liées et en orbite l'une autour de l'autre. Au fur et à mesure que ces étoiles se déplacent sur leur orbite, pendant un certain temps, elles se trouvent sur le même plan dans la ligne de visée de l'observateur. Cela provoque une éclipse entraînant une diminution temporaire de la luminosité du système jusqu'à ce qu'ils se déplacent et que la luminosité soit restaurée et constante.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Variables céphéides",
+      "variability": "variable intrinsèque",
+      "description": "Ce sont des étoiles qui s'illuminent et s'assombrissent « périodiquement ». Ils grandissent et rétrécissent (pulsent), changeant de diamètre et de température, ce qui produit un changement périodique et régulier de luminosité.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Nova classique (variables cataclysmiques)",
+      "variability": "variable intrinsèque",
+      "description": "Dans ces étoiles, il y a une grande augmentation irrégulière de la luminosité suivie d'une diminution. Les variables cataclysmiques sont en fait des étoiles binaires - deux étoiles en orbite l'une autour de l'autre - composées d'une étoile primaire (naine blanche) et d'une étoile secondaire (de taille normale). L'étoile secondaire perd de la matière au profit de l'étoile primaire (accrétion). La fusion de l'hydrogène se produit dans la matière accumulée, l'étoile éclate, éjecte une partie de la matière et produit une immense luminosité.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Étoiles variables planétaires en transit",
+      "variability": "variable extrinsèque",
+      "description": "Une étoile qui a des planètes en orbite autour d'elle peut diminuer de luminosité lorsque l'une de ces planètes passe entre cette étoile et la terre/l'observateur. Cette planète bloque la lumière qui vient de l'étoile pendant une brève période de temps, ainsi la luminosité de l'étoile peut varier périodiquement même si l'étoile elle-même ne change pas de luminosité",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Italian": [
+    {
+      "type": "Nova nana (variabili cataclismiche)",
+      "variability": "variabile intrinseca",
+      "description": "Hanno lo stesso sistema variabile cataclismico (che coinvolge una stella secondaria che perde materia a favore di una primaria) ma il meccanismo che precede l'eruzione è diverso (non implica la fusione dell'idrogeno). Il suo sfogo è dovuto all'aumento del tasso di accrescimento. La luminosità è molto più bassa della classica variazione cataclismica ma la frequenza è più alta",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Binario a eclisse",
+      "variability": "variabile estrinseca",
+      "description": "Questo è un sistema di due stelle che sono legate gravitazionalmente e in orbita l'una attorno all'altra. Mentre queste stelle si muovono nella loro orbita, per un certo periodo di tempo, giacciono sullo stesso piano nella linea di vista dell'osservatore. Ciò provoca un'eclissi con conseguente diminuzione temporanea della luminosità del sistema fino a quando non si spostano e la luminosità viene ripristinata e costante.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Variabili Cefeidi",
+      "variability": "variabile intrinseca",
+      "description": "Queste sono stelle che \"periodicamente\" si illuminano e si attenuano. Crescono e si restringono (pulsano), variando diametro e temperatura che producono un cambiamento periodico e regolare della luminosità.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Nova classica (variabili cataclismiche)",
+      "variability": "variabile intrinseca",
+      "description": "In queste stelle c'è un grande aumento irregolare della luminosità seguito da una diminuzione. Le variabili cataclismatiche sono in realtà stelle binarie - due stelle in orbita l'una attorno all'altra - composte da una stella primaria (nana bianca) e una stella secondaria (di dimensioni normali). La stella secondaria perde materia a favore della primaria (accrescimento). La fusione dell'idrogeno avviene nella materia accumulata, la stella erutta, espellendo parte della materia e producendo un'immensa luminosità.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Stelle variabili in transito planetario",
+      "variability": "variabile estrinseca",
+      "description": "Una stella che ha pianeti in orbita può diminuire di luminosità quando uno qualsiasi di questi pianeti passa tra questa stella e la terra/l'osservatore. Questo pianeta blocca la luce che proviene dalla stella per un breve periodo di tempo, quindi la luminosità della stella può variare periodicamente anche se la stella stessa non cambia di luminosità",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Japanese": [
+    {
+      "type": "Dwarf Nova (激変変数)",
+      "variability": "固有変数",
+      "description": "それらは同じ激変変動システム（二次星が一次星に物質を失うことを含む）を持っていますが、噴火に先立つメカニズムは異なります（それは水素核融合を含みません）.その爆発は、降着率の増加によるものです。明るさは古典的な大変動よりもはるかに低いですが、頻度は高くなります",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "日食バイナリ",
+      "variability": "外部変数",
+      "description": "これは、重力で互いに結合し、その周りを周回する 2 つの星のシステムです。これらの星は軌道上を移動するため、一定期間、観測者の視線の同じ平面に位置します。これにより、日食が発生し、システムの明るさが一時的に低下し、それらが移動して明るさが回復して一定になります。",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "セファイド変数",
+      "variability": "固有変数",
+      "description": "これらは、「周期的に」明るくなったり暗くなったりする星です。それらは成長および収縮 (脈動) し、直径と温度を変化させて、定期的かつ規則的な明るさの変化を生み出します。",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "古典新星 (激変変数)",
+      "variability": "固有変数",
+      "description": "これらの星では、明るさが大きく不規則に増加し、その後減少します。大変動変光星は、実際には連星 (2 つの星が互いの周りを周回している) であり、主星 (白色矮星) と副星 (通常サイズ) で構成されています。二次星は、一次星に物質を失います (降着)。蓄積した物質の中で水素核融合が起こり、星が爆発して物質の一部が飛び出し、途方もない輝きを放ちます。",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "惑星トランジット変光星",
+      "variability": "外部変数",
+      "description": "そのような惑星のいずれかがこの星と地球/観測者の間を通過すると、惑星を周回する星の明るさが暗くなることがあります。この惑星は恒星からの光を短時間遮断するため、恒星自体の明るさは変わらなくても、定期的に恒星の明るさが変化することがあります。",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "German": [
+    {
+      "type": "Zwergennova (katastrophale Variablen)",
+      "variability": "intrinsische Variable",
+      "description": "Sie haben das gleiche katastrophale variable System (bei dem ein Sekundärstern Materie an einen Primärstern verliert), aber der Mechanismus, der der Eruption vorausgeht, ist anders (er beinhaltet keine Wasserstofffusion). Sein Ausbruch ist auf eine erhöhte Akkretionsrate zurückzuführen. Die Helligkeit ist viel geringer als bei der klassischen katastrophalen Variante, aber die Frequenz ist höher",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Verdunkelnde Binärdatei",
+      "variability": "extrinsische Variable",
+      "description": "Dies ist ein System aus zwei Sternen, die gravitativ aneinander gebunden sind und sich gegenseitig umkreisen. Wenn sich diese Sterne in ihrer Umlaufbahn bewegen, liegen sie für eine gewisse Zeit auf derselben Ebene in der Sichtlinie des Beobachters. Dies verursacht eine Sonnenfinsternis, die zu einer vorübergehenden Abnahme der Helligkeit des Systems führt, bis sie sich bewegen und die Helligkeit wiederhergestellt und konstant ist.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Cepheid-Variablen",
+      "variability": "intrinsische Variable",
+      "description": "Dies sind Sterne, die „periodisch“ heller und dunkler werden. Sie wachsen und schrumpfen (pulsieren), ändern Durchmesser und Temperatur, was eine periodische und regelmäßige Helligkeitsänderung erzeugt.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Klassische Nova (kataklysmische Variablen)",
+      "variability": "intrinsische Variable",
+      "description": "In diesen Sternen gibt es eine große unregelmäßige Helligkeitszunahme, gefolgt von einer Abnahme. Kataklysmische Veränderliche sind eigentlich Doppelsterne – zwei Sterne, die umeinander kreisen – bestehend aus einem Primärstern (Weißer Zwerg) und einem Sekundärstern (normale Größe). Der Sekundärstern verliert Materie an den Primärstern (Akkretion). In der angesammelten Materie findet eine Wasserstofffusion statt, der Stern bricht aus, stößt einen Teil der Materie aus und erzeugt eine immense Helligkeit.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Planetentransitveränderliche Sterne",
+      "variability": "extrinsische Variable",
+      "description": "Ein Stern, der von Planeten umkreist wird, kann an Helligkeit verlieren, wenn einer dieser Planeten zwischen diesem Stern und der Erde/dem Beobachter vorbeizieht. Dieser Planet blockiert das Licht, das vom Stern kommt, für kurze Zeit, daher kann die Helligkeit des Sterns periodisch variieren, obwohl sich die Helligkeit des Sterns selbst nicht ändert",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Chinese Simplified": [
+    {
+      "type": "矮新星（灾难性变量）",
+      "variability": "内在变量",
+      "description": "它们具有相同的灾难变星系统（包括次星将物质丢失给主星），但喷发前的机制不同（它不涉及氢聚变）。它的爆发是由于吸积率的增加。亮度远低于经典的巨变，但频率更高",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "食二进制",
+      "variability": "外在变量",
+      "description": "这是一个由两颗恒星组成的系统，它们在引力上相互束缚并在轨道上运行。当这些恒星在它们的轨道上移动时，在一段时间内，它们位于观察者视线中的同一平面上。这会导致日食导致系统亮度暂时降低，直到它们移动并且亮度恢复并保持恒定。",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "造父变星",
+      "variability": "内在变量",
+      "description": "这些是“周期性”变亮和变暗的恒星。它们生长和收缩（脉动），改变直径和温度，从而产生周期性和规律的亮度变化。",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "古典新星（灾难性变量）",
+      "variability": "内在变量",
+      "description": "在这些恒星中，亮度有很大的不规则增加，然后是减少。灾变变星实际上是双星——两颗相互环绕的恒星——由一颗主星（白矮星）和次星（正常大小）组成。次星失去物质给主星（吸积）。氢聚变发生在积累的物质中，恒星爆发，喷射出一些物质并产生巨大的亮度。",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "行星凌日变星",
+      "variability": "外在变量",
+      "description": "当任何这样的行星在这颗恒星和地球/观察者之间经过时，有行星围绕它运行的恒星的亮度可能会变暗。这颗行星会在短时间内阻挡来自恒星的光，因此即使恒星本身的亮度没有变化，恒星的亮度也可能会周期性变化",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Spanish": [
+    {
+      "type": "Nova enana (variables cataclísmicas)",
+      "variability": "variable intrínseca",
+      "description": "Tienen el mismo sistema variable cataclísmico (que implica que una estrella secundaria pierde materia ante una primaria), pero el mecanismo que precede a la erupción es diferente (no implica la fusión de hidrógeno). Su explosión se debe a una mayor tasa de acreción. El brillo es mucho más bajo que la variación cataclísmica clásica pero la frecuencia es más alta",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Binario eclipsante",
+      "variability": "variable extrínseca",
+      "description": "Este es un sistema de dos estrellas que están unidas gravitacionalmente y en órbita alrededor de la otra. A medida que estas estrellas se mueven en su órbita, durante un período de tiempo, se encuentran en el mismo plano en la línea de visión del observador. Esto provoca un eclipse que resulta en una disminución temporal del brillo del sistema hasta que se mueven y el brillo se restablece y es constante.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Variables Cefeidas",
+      "variability": "variable intrínseca",
+      "description": "Estas son estrellas que 'periódicamente' se iluminan y se oscurecen. Crecen y se contraen (pulsan), cambiando de diámetro y temperatura lo que produce un cambio periódico y regular en el brillo.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Nova clásica (variables cataclísmicas)",
+      "variability": "variable intrínseca",
+      "description": "En estas estrellas hay un gran aumento irregular en el brillo seguido de una disminución. Las variables cataclísmicas son en realidad estrellas binarias, dos estrellas que orbitan entre sí, formadas por una estrella primaria (enana blanca) y una estrella secundaria (de tamaño normal). La estrella secundaria pierde materia con la primaria (acreción). La fusión de hidrógeno se produce en la materia acumulada, la estrella entra en erupción, expulsando parte de la materia y produciendo un brillo inmenso.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Estrellas variables en tránsito planetario",
+      "variability": "variable extrínseca",
+      "description": "Una estrella que tiene planetas en órbita puede perder brillo cuando cualquiera de esos planetas pasa entre esta estrella y la tierra/el observador. Este planeta bloquea la luz que proviene de la estrella durante un breve período de tiempo, por lo que el brillo de la estrella puede variar periódicamente aunque la estrella en sí misma no cambie de brillo.",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ],
+  "Russian": [
+    {
+      "type": "Карликовая Нова (Cataclysmic Variables)",
+      "variability": "внутренняя переменная",
+      "description": "У них одинаковая система катаклизмов (включая вторичную звезду, отдающую материю первичной), но механизм, предшествующий извержению, другой (он не связан с водородным синтезом). Это всплеск из-за увеличения скорости аккреции. Яркость намного ниже, чем у классической катаклизмической вариации, но частота выше.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Затмевающий двоичный файл",
+      "variability": "внешняя переменная",
+      "description": "Это система из двух звезд, которые гравитационно связаны и вращаются вокруг друг друга. По мере движения этих звезд по своей орбите в течение некоторого времени они лежат в одной плоскости на луче зрения наблюдателя. Это вызывает затмение, приводящее к временному уменьшению яркости системы до тех пор, пока они не переместятся, и яркость не восстановится и не станет постоянной.",
+      "link": "https://en.wikipedia.org/wiki/Binary_star#Eclipsing_binaries"
+    },
+    {
+      "type": "Переменные цефеиды",
+      "variability": "внутренняя переменная",
+      "description": "Это звезды, которые «периодически» становятся ярче и тускнеют. Они растут и сжимаются (пульсируют), изменяя диаметр и температуру, что приводит к периодическому и регулярному изменению яркости.",
+      "link": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/cepheids.html"
+    },
+    {
+      "type": "Классическая новая (Cataclysmic Variables)",
+      "variability": "внутренняя переменная",
+      "description": "У этих звезд наблюдается большое неравномерное увеличение блеска с последующим уменьшением. Катаклизмические переменные на самом деле представляют собой двойные звезды — две звезды, вращающиеся вокруг друг друга, — состоящие из первичной звезды (белого карлика) и вторичной звезды (нормального размера). Вторичная звезда отдает материю первичной (аккреция). В накопленном веществе происходит синтез водорода, звезда вспыхивает, выбрасывая часть вещества и производя огромную яркость.",
+      "link": "https://imagine.gsfc.nasa.gov/science/objects/cataclysmic_variables.html"
+    },
+    {
+      "type": "Планетарные транзитные переменные звезды",
+      "variability": "внешняя переменная",
+      "description": "Звезда, вокруг которой вращаются планеты, может тускнеть в яркости, когда любая из таких планет проходит между этой звездой и Землей/наблюдателем. Эта планета блокирует свет, исходящий от звезды, в течение короткого периода времени, поэтому яркость звезды может периодически меняться, даже если сама звезда не меняет свою яркость.",
+      "link": "https://en.wikipedia.org/wiki/Variable_star#Planetary_transits"
+    }
+  ]
+}

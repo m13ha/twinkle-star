@@ -9,24 +9,26 @@ import {
   OPEN_STAR_INFO,
   CLOSE_MODAL,
 } from './actions';
-import introText from '../intro.json';
-import starText from '../star-info.json';
+import introText from '../intro-all-languages.json';
+import starText from '../stars-all-languages-link.json';
 
 export const initialState = {
   isIntroduction: true,
   introText,
-  introPresentText: introText.en[0],
+  introPresentText: introText.English[0],
   introPresentIndex: 0,
   gameItemsFound: [
-    { itemName: 'Cepheid variables', itemCount: 2 },
-    { itemName: 'Classical Nova', itemCount: 1 },
-    { itemName: 'Dwarf Nova', itemCount: 3 },
-    { itemName: 'Eclipsing binary variables', itemCount: 5 },
-    { itemName: 'Planetary transiting variables', itemCount: 4 },
+    { itemName: 'Dwarf Nova', itemCount: 0 },
+    { itemName: 'Eclipsing binary variables', itemCount: 0 },
+    { itemName: 'Cepheid variables', itemCount: 0 },
+    { itemName: 'Classical Nova', itemCount: 0 },
+    { itemName: 'Planetary transiting variables', itemCount: 0 },
   ],
   starText,
+  typeIndex: 0,
   isModalOpened: false,
   activeStarInfo: {},
+  presentLanguage: 'English',
 };
 
 const AppContext = React.createContext();
@@ -36,7 +38,9 @@ const AppProvider = ({ children }) => {
 
   const handleNextIntro = () => {
     const index = state.introPresentIndex;
-    if (index === state.introText.en.length - 1) {
+    const presentLanguage = state.presentLanguage;
+    if (index === state.introText[presentLanguage].length - 1) {
+      dispatch({ type: START_APP });
       return;
       // dispatch({type: START_APP});
       // return;
@@ -69,6 +73,13 @@ const AppProvider = ({ children }) => {
     });
   };
 
+  const changePresentLanguage = (event) => {
+    dispatch({
+      type: 'CHANGE-LANGUAGE',
+      payload: { language: event.target.value },
+    });
+  };
+
   return (
     <AppContext.Provider
       value={{
@@ -78,6 +89,7 @@ const AppProvider = ({ children }) => {
         skipIntro,
         closeModal,
         openStarInfoRandom,
+        changePresentLanguage,
       }}
     >
       {children}
