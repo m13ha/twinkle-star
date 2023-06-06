@@ -1,7 +1,5 @@
 # Twinkle Star
 
-![Twinkle Star Logo](https://example.com/logo.png)
-
 **Twinkle Star** is an interactive game developed for the NASA Space Challenge 2022. The objective of the game is to investigate and discover the reasons behind certain stars blinking while others remain constant. Each blinking star represents a unique reason, and the rarer the reason, the more points you earn.
 
 **Play the game now: [Twinkle Star](https://twinkle-star.netlify.app/)**
